@@ -2607,7 +2607,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 				<exemplarCity>कायरो</exemplarCity>
 			</zone>
 			<zone type="Africa/El_Aaiun">
-				<exemplarCity>अल आइयून&lt;</exemplarCity>
+				<exemplarCity>अल आइयून</exemplarCity>
 			</zone>
 			<zone type="Africa/Asmera">
 				<exemplarCity>अस्मारा</exemplarCity>
